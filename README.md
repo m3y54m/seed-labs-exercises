@@ -1,2 +1,2 @@
-# seed-labs-exercises
-SEED Labs Exercises
+# SEED Labs Exercises
+
